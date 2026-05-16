@@ -9,7 +9,8 @@
 
 ## Download / 下载
 
-- [Claude Code 学习手册.pdf](./books/Claude%20Code%20%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C.pdf)
+- [Claude Code 学习手册.pdf](./books/Claude%20Code%20%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C.pdf) - 中文竖版，适合手机和电脑阅读
+- [Claude Code 学习手册-横版排版.pdf](./books/Claude%20Code%20%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C-%E6%A8%AA%E7%89%88%E6%8E%92%E7%89%88.pdf) - 中文横版，适合电脑宽屏阅读
 - [Claude Code Learning Handbook.pdf](./books/Claude%20Code%20Learning%20Handbook.pdf)
 
 > This repository publishes the PDF editions only. Source drafts, intermediate task files, and generation scripts are not included.  
@@ -152,6 +153,7 @@ This handbook is designed for developers who have basic programming experience a
 ├── LICENSE
 └── books/
     ├── Claude Code 学习手册.pdf
+    ├── Claude Code 学习手册-横版排版.pdf
     └── Claude Code Learning Handbook.pdf
 ```
 
